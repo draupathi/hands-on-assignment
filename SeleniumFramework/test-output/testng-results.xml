@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13434" started-at="2019-09-21T22:06:05Z" finished-at="2019-09-21T22:06:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13434" started-at="2019-09-21T22:06:05Z" finished-at="2019-09-21T22:06:19Z">
+      <class name="com.webappsecurity.tests.MyMoneyMap">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webappsecurity.tests.MyMoneyMap@23faf8f2]" name="setUp" is-config="true" duration-ms="5842" started-at="2019-09-21T22:06:06Z" finished-at="2019-09-21T22:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="viewMyMoneyMap(java.lang.String, java.lang.String)[pri:0, instance:com.webappsecurity.tests.MyMoneyMap@23faf8f2]" name="viewMyMoneyMap" duration-ms="6288" started-at="2019-09-21T22:06:12Z" data-provider="zbLogin" finished-at="2019-09-21T22:06:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewMyMoneyMap -->
+      </class> <!-- com.webappsecurity.tests.MyMoneyMap -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

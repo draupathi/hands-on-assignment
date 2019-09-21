@@ -1,0 +1,177 @@
+2018-11-04 07:14:48,357 - Google -INFO - Browser Opened
+2018-11-04 07:14:49,956 - Google -INFO - Url opened
+2018-11-04 07:14:50,025 - Google -INFO - keyword type
+2018-11-24 14:38:14,520 - TestBase -INFO - signin button clicked
+2019-01-10 17:38:50,850 - TestBase -INFO - signin button clicked
+2019-01-10 17:40:13,715 - TestBase -INFO - signin button clicked
+2019-01-10 17:42:41,569 - TestBase -INFO - signin button clicked
+2019-01-10 17:43:03,979 - TestBase -INFO - signin button clicked
+2019-01-12 20:26:23,070 - TestBase -INFO - signin button clicked
+2019-01-12 20:27:15,852 - TestBase -INFO - signin button clicked
+2019-01-12 20:28:14,853 - TestBase -INFO - signin button clicked
+2019-01-12 20:28:36,622 - TestBase -INFO - signin button clicked
+2019-09-17 15:29:24,555 - TestBase -INFO - signin button clicked
+2019-09-17 15:29:25,307 - TestBase -INFO - Credentials entered
+2019-09-20 17:32:39,117 - TestBase -INFO - signin button clicked
+2019-09-20 17:32:40,738 - TestBase -INFO - Credentials entered
+2019-09-20 17:35:27,860 - TestBase -INFO - signin button clicked
+2019-09-20 17:35:29,973 - TestBase -INFO - Credentials entered
+2019-09-21 10:31:43,327 - TestBase -INFO - signin button clicked
+2019-09-21 10:31:44,331 - TestBase -INFO - Credentials entered
+2019-09-21 10:31:45,280 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 10:32:44,520 - TestBase -INFO - signin button clicked
+2019-09-21 10:32:45,441 - TestBase -INFO - Credentials entered
+2019-09-21 10:32:46,272 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 10:42:22,776 - TestBase -INFO - signin button clicked
+2019-09-21 10:42:23,660 - TestBase -INFO - Credentials entered
+2019-09-21 10:42:24,664 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 10:55:18,124 - TestBase -INFO - signin button clicked
+2019-09-21 10:55:19,021 - TestBase -INFO - Credentials entered
+2019-09-21 10:55:19,917 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 12:27:03,321 - TestBase -INFO - signin button clicked
+2019-09-21 12:27:04,056 - TestBase -INFO - Credentials entered
+2019-09-21 12:27:04,757 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 12:27:05,574 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 12:27:05,841 - TestBase -INFO - Inflow table is expanded
+2019-09-21 12:27:05,990 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 12:27:06,134 - TestBase -INFO - Deposit table is expanded
+2019-09-21 12:27:06,337 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 12:27:06,572 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 12:27:06,748 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 12:27:07,330 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 12:29:39,033 - TestBase -INFO - signin button clicked
+2019-09-21 12:29:39,825 - TestBase -INFO - Credentials entered
+2019-09-21 12:29:40,586 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 12:29:41,463 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 12:29:41,749 - TestBase -INFO - Inflow table is expanded
+2019-09-21 12:29:41,909 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 12:29:42,031 - TestBase -INFO - Deposit table is expanded
+2019-09-21 12:29:42,236 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 12:29:42,425 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 12:29:42,604 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 12:29:43,165 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 12:32:43,115 - TestBase -INFO - signin button clicked
+2019-09-21 12:32:44,035 - TestBase -INFO - Credentials entered
+2019-09-21 12:32:44,906 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 12:32:45,777 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 12:32:46,056 - TestBase -INFO - Inflow table is expanded
+2019-09-21 12:32:46,221 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 12:32:46,348 - TestBase -INFO - Deposit table is expanded
+2019-09-21 12:32:46,537 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 12:32:46,792 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 12:32:46,961 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 12:32:47,545 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 12:39:10,132 - TestBase -INFO - signin button clicked
+2019-09-21 12:39:11,055 - TestBase -INFO - Credentials entered
+2019-09-21 12:39:11,997 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 12:39:12,944 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 12:39:13,205 - TestBase -INFO - Inflow table is expanded
+2019-09-21 12:39:13,343 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 12:39:13,475 - TestBase -INFO - Deposit table is expanded
+2019-09-21 12:39:13,673 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 12:39:13,893 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 12:39:14,074 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 12:39:14,622 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 12:41:27,935 - TestBase -INFO - signin button clicked
+2019-09-21 12:41:28,626 - TestBase -INFO - Credentials entered
+2019-09-21 12:41:29,521 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 12:41:30,442 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 12:41:30,712 - TestBase -INFO - Inflow table is expanded
+2019-09-21 12:41:30,873 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 12:41:31,001 - TestBase -INFO - Deposit table is expanded
+2019-09-21 12:41:31,214 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 12:41:31,428 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 12:41:31,616 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 12:41:32,244 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 12:50:34,423 - TestBase -INFO - signin button clicked
+2019-09-21 12:50:35,167 - TestBase -INFO - Credentials entered
+2019-09-21 12:50:36,019 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 12:50:36,901 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 12:50:37,172 - TestBase -INFO - Inflow table is expanded
+2019-09-21 12:50:37,312 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 12:50:37,445 - TestBase -INFO - Deposit table is expanded
+2019-09-21 12:50:37,650 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 12:50:37,897 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 12:50:38,071 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 12:50:38,654 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 14:38:29,134 - TestBase -INFO - signin button clicked
+2019-09-21 14:38:29,828 - TestBase -INFO - Credentials entered
+2019-09-21 14:38:30,558 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 14:38:31,435 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 14:38:31,724 - TestBase -INFO - Inflow table is expanded
+2019-09-21 14:38:31,884 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 14:38:32,014 - TestBase -INFO - Deposit table is expanded
+2019-09-21 14:38:32,218 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 14:38:32,434 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 14:38:32,614 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 14:38:33,215 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 14:54:22,385 - TestBase -INFO - signin button clicked
+2019-09-21 14:54:23,177 - TestBase -INFO - Credentials entered
+2019-09-21 14:59:09,070 - TestBase -INFO - signin button clicked
+2019-09-21 14:59:09,919 - TestBase -INFO - Credentials entered
+2019-09-21 14:59:10,983 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 14:59:11,796 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 14:59:12,081 - TestBase -INFO - Inflow table is expanded
+2019-09-21 14:59:12,227 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 14:59:12,340 - TestBase -INFO - Deposit table is expanded
+2019-09-21 14:59:12,548 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 14:59:12,752 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 14:59:12,915 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 14:59:13,476 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 15:54:32,775 - TestBase -INFO - signin button clicked
+2019-09-21 15:54:33,476 - TestBase -INFO - Credentials entered
+2019-09-21 15:54:34,128 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 15:54:34,966 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 15:54:35,218 - TestBase -INFO - Inflow table is expanded
+2019-09-21 15:54:35,382 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 15:54:35,523 - TestBase -INFO - Deposit table is expanded
+2019-09-21 15:54:35,750 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 15:54:36,068 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 15:54:36,282 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 15:54:36,958 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 17:17:10,233 - TestBase -INFO - signin button clicked
+2019-09-21 17:17:11,162 - TestBase -INFO - Credentials entered
+2019-09-21 17:17:12,075 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 17:17:13,333 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 17:17:13,602 - TestBase -INFO - Inflow table is expanded
+2019-09-21 17:17:13,893 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 17:17:14,038 - TestBase -INFO - Deposit table is expanded
+2019-09-21 17:17:14,324 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 17:17:14,651 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 17:17:14,872 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 17:17:15,610 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 17:42:06,506 - TestBase -INFO - signin button clicked
+2019-09-21 17:42:07,417 - TestBase -INFO - Credentials entered
+2019-09-21 17:43:36,904 - TestBase -INFO - signin button clicked
+2019-09-21 17:43:37,838 - TestBase -INFO - Credentials entered
+2019-09-21 17:43:38,780 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 17:43:39,989 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 17:43:40,255 - TestBase -INFO - Inflow table is expanded
+2019-09-21 17:43:40,517 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 17:43:40,662 - TestBase -INFO - Deposit table is expanded
+2019-09-21 17:43:40,929 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 17:43:41,215 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 17:43:41,443 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 17:43:42,127 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 17:55:46,306 - TestBase -INFO - signin button clicked
+2019-09-21 17:55:47,172 - TestBase -INFO - Credentials entered
+2019-09-21 17:55:48,188 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 17:55:49,394 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 17:55:49,669 - TestBase -INFO - Inflow table is expanded
+2019-09-21 17:55:49,922 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 17:55:50,067 - TestBase -INFO - Deposit table is expanded
+2019-09-21 17:55:50,366 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 17:55:50,705 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 17:55:50,936 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 17:55:51,688 - TestBase -INFO - Pop-up Automatic open and close is executed
+2019-09-21 18:06:13,378 - TestBase -INFO - signin button clicked
+2019-09-21 18:06:14,397 - TestBase -INFO - Credentials entered
+2019-09-21 18:06:15,473 - TestBase -INFO - My Money Map Link is clicked
+2019-09-21 18:06:16,880 - TestBase -INFO - Inflow table is collapsed
+2019-09-21 18:06:17,189 - TestBase -INFO - Inflow table is expanded
+2019-09-21 18:06:17,487 - TestBase -INFO - Deposit table is collapsed
+2019-09-21 18:06:17,645 - TestBase -INFO - Deposit table is expanded
+2019-09-21 18:06:17,946 - TestBase -INFO - Direct Deposits pop-up is opened
+2019-09-21 18:06:18,267 - TestBase -INFO - Other Deposits pop-up is opened
+2019-09-21 18:06:18,508 - TestBase -INFO - Transfer from other Zero Bank Account pop-up is opened
+2019-09-21 18:06:19,271 - TestBase -INFO - Pop-up Automatic open and close is executed
